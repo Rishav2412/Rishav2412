@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello, there I'm  <a href="https://www.linkedin.com/in/rishav-ranjan-7834231b8/">Rishav Ranjan</a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Web+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Aspiring+Full+Stack+Web+Developer+%3A)" /> </h3>
 
 <div align="center">
 <img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=Rishav2412&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
