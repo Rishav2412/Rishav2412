@@ -16,7 +16,7 @@
 
 - I enjoy learning new languages and frameworks like **React⚛** <br/>
 
-- Ask me about **Javascript** & **DSA**
+- Ask me about **C++** & **DSA**
 
 - Check my   <a href="https://leetcode.com/rishavranjananan/">LeetCode</a>
 
